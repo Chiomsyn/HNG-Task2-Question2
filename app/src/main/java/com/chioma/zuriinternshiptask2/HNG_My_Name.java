@@ -6,6 +6,8 @@ public class HNG_My_Name {
         
         String name = "Ezeamama Chioma M.";
         System.out.println("My name is: " + name);
+
+        Log.println(Log.d,"debug", name);
         
     }
     
