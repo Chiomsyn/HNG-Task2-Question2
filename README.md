@@ -7,3 +7,6 @@ AlertDialog box. On the app there is also link that redirects you to zuri's
 Homepage when it is clicked.
 You can also test the app yourself on appetite.io on the below link
 https://appetize.io/app/z8hn3xven9wbpwe7v1avfk7ct8
+
+Also there also a Java program that prints my name which is initialized as a String
+variable.
